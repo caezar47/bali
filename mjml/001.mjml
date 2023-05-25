@@ -1,0 +1,206 @@
+<mjml>
+    <mj-head>
+        <mj-preview>&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title></mj-title>
+        <mj-include path="header/style.mjml" />
+        <mj-attributes>
+
+            <mj-class name="features__wrapper"
+                      padding="0 0 15px"
+            />
+            <mj-class name="features__section"
+                      padding="0"
+                      background-color="#EFEFEF"
+            />
+            <mj-class name="features__column"
+                      padding="30px 15px 7.5px 15px"
+            />
+            <mj-class name="features__title"
+                      padding="0 0 23px"
+                      font-size="25px"
+                      line-height="31px"
+                      align="center"
+                      color="#262424"
+            />
+            <mj-class name="features__text"
+                      padding="0 0 17.5px"
+                      font-size="15px"
+                      line-height="23px"
+                      align="center"
+                      color="#262424"
+            />
+            <mj-class name="feature__item"
+                      padding="3.75px 0"
+            />
+            <mj-class name="feature__column"
+                      padding="5px 7.5px"
+                      background-color="#fff"
+            />
+            <mj-class name="feature__section"
+                      padding="0"
+            />
+            <mj-class name="feature__column-img"
+                      padding="0 7.5px"
+                      width="16%"
+                      vertical-align="middle"
+            />
+            <mj-class name="feature__column-text"
+                      padding="0 7.5px"
+                      width="84%"
+                      vertical-align="middle"
+            />
+            <mj-class name="feature__img"
+                      padding="0"
+                      width="70px"
+            />
+            <mj-class name="feature__text"
+                      padding="0"
+                      font-size="15px"
+                      line-height="23px"
+                      color="#262424"
+            />
+
+            <mj-class name="button__column-item1"
+                      width="215px"
+                      padding="0 0 30px"
+            />
+        </mj-attributes>
+
+        <mj-style inline="inline">
+            .button__column-item1 {
+                max-width: 215px!important;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header_base.mjml" />
+        <!-- end's Header -->
+        <mj-section mj-class="hero__section">
+            <mj-column mj-class="hero__column">
+                <mj-image mj-class="hero__img"
+                          src="https://caezar47.github.io/bali/img/001/main_banner_item1.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- Content -->
+        <mj-section mj-class="content__section" css-class="content__section">
+            <mj-column mj-class="content__column" css-class="dib  content__column">
+
+                <mj-wrapper mj-class="features__wrapper">
+                    <mj-section mj-class="features__section">
+                        <mj-column mj-class="features__column">
+                            <mj-section mj-class="pad--0">
+                                <mj-column mj-class="pad--0  mw-540" css-class="dib mw-540">
+                                    <mj-text mj-class="features__title" css-class="features__title">
+                                        Готовый лофт на&nbsp;Бали<br/>
+                                        в&nbsp;<strong>450&nbsp;м</strong> от&nbsp;океана
+                                    </mj-text>
+                                    <mj-text mj-class="features__text" css-class="features__text">
+                                        Жилой комплекс включает <strong>12&nbsp;лофтов</strong> высотой в&nbsp;<strong>2&nbsp;этажа</strong>.<br/>
+                                        В&nbsp;проекте предусмотрен общий бассейн, общая зона отдыха, парковка&nbsp;для&nbsp;авто и&nbsp;байков. Пляж в&nbsp;пешей доступности&nbsp;— <strong>450&nbsp;метров</strong>!
+                                    </mj-text>
+                                </mj-column>
+                            </mj-section>
+
+                            <mj-section mj-class="feature__item">
+                                <mj-column mj-class="feature__column">
+                                    <mj-section mj-class="feature__section">
+                                        <mj-group>
+                                            <mj-column mj-class="feature__column-img">
+                                                <mj-image mj-class="feature__img"
+                                                          src="https://caezar47.github.io/bali/img/001/features_item1.png"
+                                                />
+                                            </mj-column>
+                                            <mj-column mj-class="feature__column-text">
+                                                <mj-text mj-class="feature__text">
+                                                    <strong>Срок сдачи</strong>&nbsp;— полностью готово
+                                                </mj-text>
+                                            </mj-column>
+                                        </mj-group>
+                                    </mj-section>
+                                </mj-column>
+                            </mj-section>
+
+                            <mj-section mj-class="feature__item">
+                                <mj-column mj-class="feature__column">
+                                    <mj-section mj-class="feature__section">
+                                        <mj-group>
+                                            <mj-column mj-class="feature__column-img">
+                                                <mj-image mj-class="feature__img"
+                                                          src="https://caezar47.github.io/bali/img/001/features_item2.png"
+                                                />
+                                            </mj-column>
+                                            <mj-column mj-class="feature__column-text">
+                                                <mj-text mj-class="feature__text">
+                                                    <strong>Где расположен</strong>&nbsp;— Центр Чангу, пляж Бату Болонг
+                                                </mj-text>
+                                            </mj-column>
+                                        </mj-group>
+                                    </mj-section>
+                                </mj-column>
+                            </mj-section>
+
+                            <mj-section mj-class="feature__item">
+                                <mj-column mj-class="feature__column">
+                                    <mj-section mj-class="feature__section">
+                                        <mj-group>
+                                            <mj-column mj-class="feature__column-img">
+                                                <mj-image mj-class="feature__img"
+                                                          src="https://caezar47.github.io/bali/img/001/features_item3.png"
+                                                />
+                                            </mj-column>
+                                            <mj-column mj-class="feature__column-text">
+                                                <mj-text mj-class="feature__text">
+                                                    <strong>Подходит для инвестиций/</strong>жилья
+                                                </mj-text>
+                                            </mj-column>
+                                        </mj-group>
+                                    </mj-section>
+                                </mj-column>
+                            </mj-section>
+
+                            <mj-section mj-class="feature__item">
+                                <mj-column mj-class="feature__column">
+                                    <mj-section mj-class="feature__section">
+                                        <mj-group>
+                                            <mj-column mj-class="feature__column-img">
+                                                <mj-image mj-class="feature__img"
+                                                          src="https://caezar47.github.io/bali/img/001/features_item4.png"
+                                                />
+                                            </mj-column>
+                                            <mj-column mj-class="feature__column-text">
+                                                <mj-text mj-class="feature__text">
+                                                    <strong>Есть возможность рассрочки</strong>
+                                                </mj-text>
+                                            </mj-column>
+                                        </mj-group>
+                                    </mj-section>
+                                </mj-column>
+                            </mj-section>
+
+                        </mj-column>
+                    </mj-section>
+                </mj-wrapper>
+
+                <mj-section mj-class="button__section">
+                    <mj-column mj-class="button__column button__column-item1" css-class="dib  button__column  button__column-item1">
+                        <mj-button mj-class="button"
+                                   href="#">
+                            Скачать презентацию
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+
+                <mj-image mj-class="content__banner"
+                          src="https://caezar47.github.io/bali/img/001/main_banner_item2.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- end's Content -->
+
+        <!-- Header -->
+        <mj-include path="footer/footer_base.mjml" />
+        <!-- end's Header -->
+    </mj-body>
+</mjml>

@@ -1,0 +1,192 @@
+<mj-breakpoint width="595px" />
+<mj-attributes>
+    <mj-all
+            font-family="Arial, sans-serif"
+            color="#000"
+    />
+    <mj-class name="pad--0"
+              padding="0"
+    />
+    <mj-class name="mw-540"
+              padding="0"
+              width="540px"
+    />
+    <mj-class name="view__section"
+              background-color="#fff"
+              padding="15px"
+              full-width="full-width"
+    />
+    <mj-class name="view__column"
+              padding="0"
+    />
+    <mj-class name="view__text"
+              color="#949494"
+              font-size="12px"
+              line-height="14px"
+              padding="0"
+              align="center"
+    />
+
+    <mj-class name="header__section"
+              padding="10px 15px 25px"
+              full-width="full-width"
+              background-color="#fff"
+    />
+    <mj-class name="header__column"
+              padding="0"
+    />
+    <mj-class name="header__logo"
+              padding="0 0 40px"
+              width="210px"
+    />
+    <mj-class name="header__phone"
+              font-size="14px"
+              line-height="22px"
+              padding="0"
+              align="center"
+              color="#fff"
+    />
+
+    <mj-class name="soc__section"
+              padding="0"
+    />
+    <mj-class name="soc__column-img"
+              padding="0 5px"
+              width="46px"
+              vertical-align="middle"
+    />
+    <mj-class name="soc__column-phone"
+              padding="0 5px"
+              width="135px"
+              vertical-align="middle"
+    />
+    <mj-class name="soc__img"
+              padding="0"
+              width="36px"
+    />
+    <mj-class name="soc__phone"
+              font-size="15px"
+              line-height="21px"
+              background-color="transparent"
+              inner-padding="0"
+              padding="0"
+              border-radius="0"
+              width="100%"
+              color="#000"
+    />
+
+    <mj-class name="hero__section"
+              background-color="#EFEFEF"
+              padding="0"
+              full-width="full-width"
+    />
+    <mj-class name="hero__column"
+              padding="0"
+    />
+    <mj-class name="hero__img"
+              padding="0"
+              width="600px"
+    />
+
+
+    <mj-class name="content__section"
+              padding="30px 0 60px"
+    />
+    <mj-class name="content__column"
+              padding="0 15px"
+              width="630px"
+    />
+
+
+    <mj-class name="content__banner"
+              padding="0px"
+              width="600px"
+    />
+    <mj-class name="content__text"
+              padding="0"
+              font-size="15px"
+              line-height="22px"
+              color="#535353"
+              align="center"
+    />
+
+    <mj-class name="button__section"
+              padding="0"
+    />
+    <mj-class name="button__column"
+              padding="0"
+    />
+    <mj-class name="button"
+              font-size="14px"
+              line-height="20px"
+              background-color="#2A764F"
+              inner-padding="15px"
+              color="#fff"
+              width="100%"
+              padding="0"
+              font-weight="700"
+              border-radius="50px"
+    />
+    <mj-class name="footer__section"
+              padding="28px 20px 35px"
+              full-width="full-width"
+              background-color="#EFEFEF"
+    />
+    <mj-class name="footer__column"
+              padding="0"
+    />
+    <mj-class name="footer__logo"
+              padding="0 0 30px"
+              width="170px"
+    />
+    <mj-class name="social__section"
+              padding="0"
+    />
+    <mj-class name="social__column"
+              padding="0 5px"
+              width="50px"
+    />
+    <mj-class name="social__img"
+              padding="0"
+              width="40px"
+    />
+</mj-attributes>
+<mj-style inline="inline">
+    .dib {
+        display: inline-block!important;
+        width: 100% !important;
+    }
+    .mw-540 {
+        max-width: 540px!important;
+    }
+    .view__text a{
+        color: #949494;
+        text-decoration: underline;
+    }
+    .soc__column-img {
+        display: inline-block!important;
+        width: 100% !important;
+        max-width: 46px!important;
+
+    }
+    .soc__column-phone {
+        display: inline-block!important;
+        width: 100% !important;
+        max-width: 135px!important;
+
+    }
+    .content__section {
+        max-width: 630px!important;
+    }
+    .content__column {
+        max-width: 630px!important;
+    }
+    .footer__text a {
+        color: #C8C8C8;
+    }
+    .social__column {
+        display: inline-block!important;
+        width: 100% !important;
+        max-width: 40px!important;
+    }
+</mj-style>

@@ -1,0 +1,22 @@
+<mj-section mj-class="footer__section">
+    <mj-column mj-class="footer__column">
+        <mj-image mj-class="footer__logo"
+                  src="https://caezar47.github.io/bali/img/001/logo_footer.png"
+                  href=""
+        />
+        <mj-section mj-class="social__section">
+            <mj-column mj-class="social__column" css-class="social__column">
+                <mj-image mj-class="social__img"
+                          src="https://caezar47.github.io/bali/img/001/social_inst.png"
+                          href=""
+                />
+            </mj-column>
+            <mj-column mj-class="social__column" css-class="social__column">
+                <mj-image mj-class="social__img"
+                          src="https://caezar47.github.io/bali/img/001/social_wa.png"
+                          href="https://wa.clck.bar/+628888887777"
+                />
+            </mj-column>
+        </mj-section>
+    </mj-column>
+</mj-section>
